@@ -8,7 +8,7 @@ What is javascript?
 
 Not that guy from the theater department.
 
-### Resources
+#### Resources
 *	http://css-tricks.com/dom/
 
 ## Variables
@@ -24,4 +24,14 @@ function() {
 }
 ```
 
-## Objects
+## Data Structures
+#### Objects
+#### Arrays
+
+---
+
+## Bookshelf
+
+#### [Eloquent Javascript](http://eloquentjavascript.net)
+#### [Javascript Enlightenment](http://javascriptenlightenment.com)
+
