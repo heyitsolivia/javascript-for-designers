@@ -1,2 +1,2 @@
-<h3This line of code tells the browser to load all html <strong>prior<prior> to loading javascript</h3
+<h3>This line of code tells the browser to load all html <strong>prior<prior> to loading javascript</h3>
 $(document).ready(main);
