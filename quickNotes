@@ -1,0 +1,2 @@
+This line of code tells the browser to load all html <strong>prior<prior> to loading javascript
+$(document).ready(main);
