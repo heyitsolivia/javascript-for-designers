@@ -3,3 +3,9 @@ $(document).ready(main);
 
 Dollar Sign - prefix variables for jquery, so it does not get confused with other things like integers
 $
+
+Events - respond to user interactions
+
+DOM Manipulation - modify HTML
+
+Effects - animations
