@@ -1,2 +1,5 @@
-<h3>This line of code tells the browser to load all html <strong>prior<prior> to loading javascript</h3>
+This line of code tells the browser to load all html <strong>prior<prior> to loading javascript
 $(document).ready(main);
+
+Dollar Sign - prefix variables for jquery, so it does not get confused with other things like integers
+$
